@@ -2,7 +2,7 @@
 
 This repository contains my learning journey and implementations of **PyTorch** fundamentals, covering everything from tensors to deep learning models. 🚀  
 
-3 📖 Reference
+#  📖 Reference
 This repository follows the PyTorch tutorial from [
 freeCodeCamp.org
  by  Daniel Bourke).
